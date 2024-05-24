@@ -10,6 +10,7 @@ Algo que posso dizer que considero bem interessante aqui: segurança de entrada 
 
 #### Instruções de Uso:
 
+##### LINUX
 1. Instale Python3 e pip, caso não tenha:
     ```bash
     sudo apt-get install python3 python3-pip
@@ -38,6 +39,35 @@ Algo que posso dizer que considero bem interessante aqui: segurança de entrada 
 6. Aguarde a solicitação (puxando todos os dados da bolsa).
 
 7. Siga os passos solicitados na tela.
+
+##### WINDOS
+#### Instruções de Uso:
+
+1. Clone o repositorio:
+    ```bash
+    git clone https://github.com/efraim-lima/secured-broker
+    ```
+
+2. Navegue até a pasta raiz do repositório:
+    ```bash
+    cd caminho/para/o/repositório
+    ```
+
+3. Ative o ambiente virtual:
+    ```bash
+    .venv\Scripts\activate
+    ```
+
+4. Instale as dependências listadas no arquivo requirements.txt:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Execute o módulo principal:
+    ```bash
+    python main.py
+    ```
+
 
 #### `broker`
 
