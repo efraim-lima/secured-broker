@@ -40,7 +40,7 @@ Algo que posso dizer que considero bem interessante aqui: segurança de entrada 
 
 7. Siga os passos solicitados na tela.
 
-##### WINDOS
+##### WINDOWS
 #### Instruções de Uso:
 
 1. Clone o repositorio:
